@@ -80,5 +80,6 @@ git log
 15. Terminal Utilities
 
 clear
+doing new things
 history
 ls
